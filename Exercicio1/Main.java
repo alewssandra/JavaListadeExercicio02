@@ -1,5 +1,5 @@
 
-package n1;
+package exercicio1;
 
 public class Main {
     public static void main(String[] args) {
